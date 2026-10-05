@@ -1,0 +1,6 @@
+{
+  "name": "disasterdesk",
+  "private": true,
+  "scripts": { "test": "node --test", "check": "node --check app.js" },
+  "devDependencies": { "jsdom": "^26.1.0" }
+}
